@@ -34,7 +34,7 @@ public class BuscarNum {
             //buscamos el numero en el  arreglo
             int i = 0;
 
-            while (i < 10 && arreglo[i] < numero) {
+             while (i < 10 && arreglo[i] < numero) {
                 i++;
             }
 
