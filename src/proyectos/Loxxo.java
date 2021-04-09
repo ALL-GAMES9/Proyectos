@@ -17,7 +17,7 @@ public class Loxxo {
         String direccion;
         int edad;
       
-        System.out.println("1- AGREGAR CLIENTE");
+        System.out.println("1- AGREGAR CLIENTE.");
         System.out.println("2- MOSTRAR CLIENTES");
         System.out.println("3- BUSCAR CLIENTE");
         System.out.println("4- CERRAR SECION");

@@ -11,7 +11,7 @@ public class Promedio {
       double acum=1;
       int notas=0;
         Scanner r = new Scanner (System.in);
-        System.out.println("Ingrese la cantidad de numeros a promediar");
+        System.out.println("Ingrese la cantidad de numeros a promediar: ");
         double cn = r.nextFloat();
         
         while (acum <= cn){
